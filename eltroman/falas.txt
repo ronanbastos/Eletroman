@@ -1,0 +1,60 @@
+O Arduino e uma plataforma de prototipagem eletronica de codigo aberto que permite criar projetos interativos com facilidade.
+O Arduino e baseado em uma placa com um microcontrolador que pode ser programado para realizar diversas tarefas.
+Sobre Arduino Uno - Placa basica para projetos simples
+Sobre Arduino Mega - Placa com mais recursos e maior capacidade de processamento
+Sobre Arduino Leonardo - Placa com suporte a USB nativo e teclado/mouse emulados
+Sobre Arduino Nano - Placa compacta para projetos com espaco limitado
+Sobre Arduino Pro Mini - Placa compacta para projetos com espaco limitado e menor consumo de energia
+Sobre Arduino Due - Placa com processador ARM de 32 bits e maior capacidade de processamento
+Sobre Arduino MKR1000 - Placa com conectividade Wi-Fi e baixo consumo de energia
+Sobre Arduino Zero - Placa com processador ARM Cortex-M0+ e suporte a USB nativo
+Eletronica de baixa tensao lida com correntes eletricas de ate 50 volts.
+Essa e a tensao maxima considerada segura para seres humanos em contato direto com os circuitos eletricos.
+A eletronica de baixa tensao e utilizada em diversas aplicacoes como em sistemas de iluminacao em equipamentos de audio e video em sistemas de seguranca em dispositivos de controle de temperatura entre outros.
+Os componentes eletronicos utilizados em eletronica de baixa tensao sao similares aos utilizados em eletronica de alta tensao porem com especificacoes diferentes.
+Por exemplo um resistor utilizado em um circuito de baixa tensao pode ter uma resistencia de alguns ohms enquanto um resistor utilizado em um circuito de alta tensao pode ter uma resistencia de milhoes de ohms.
+A eletronica de baixa tensao e geralmente mais segura do que a eletronica de alta tensao pois os riscos de choque eletrico sao menores.
+Porem e importante tomar cuidado ao lidar com circuitos eletricos independentemente da tensao envolvida.
+A eletronica de baixa tensao e uma area em constante evolucao com novas tecnologias e componentes sendo desenvolvidos para tornar os circuitos mais eficientes e seguros.
+Os resistores sao usados para limitar a corrente e ajustar a tensao em um circuito.
+Os capacitores sao usados para armazenar cargas eletricas e libera-las em momentos especificos.
+Resistores e capacitores podem ser usados em conjunto com placas Arduino para criar circuitos eletronicos mais complexos.
+Os valores de resistencia e capacitancia afetam o comportamento do circuito e devem ser escolhidos de acordo com as necessidades do projeto.
+Sensor e um dispositivo eletronico que converte uma grandeza fisica como temperatura pressao luminosidade em um sinal eletrico. Existem diversos tipos de sensores como sensores de temperatura sensores de pressao sensores de luz entre outros.
+Atuador e um dispositivo eletronico que converte um sinal eletrico em uma acao fisica como movimento vibracao som. Os atuadores sao utilizados em diversas aplicacoes como em sistemas de automacao industrial robotica sistemas de som entre outros.
+Protocolo de comunicacao e um conjunto de regras e procedimentos que definem a forma como dois ou mais dispositivos eletronicos se comunicam entre si. Existem diversos protocolos de comunicacao como o protocolo de comunicacao serial o protocolo de comunicacao SPI o protocolo de comunicacao I2C entre outros.
+Arduino e uma plataforma eletronica de codigo aberto que utiliza microcontroladores para criar projetos interativos e dispositivos eletronicos. O Arduino e uma plataforma muito popular entre os makers e entusiastas da eletronica pois permite a criacao de projetos de forma facil e acessivel. O Arduino e programado em uma linguagem baseada em C/C++ e possui uma grande comunidade de usuarios que compartilham projetos e conhecimentos.
+Frequencia e o numero de ciclos de uma onda por segundo. 
+Onda e a propagacao de uma perturbacao em um meio fisico. 
+Sinal e uma forma de onda que carrega informacoes.
+A placa Arduino pode ser usada para medir a resistencia e capacitancia de um componente o que pode ser util para selecionar o valor correto para o circuito.
+Os diodos sao usados para permitir que a corrente flua em apenas uma direcao em um circuito.
+Os transistores sao usados para amplificar ou comutar sinais eletricos em um circuito.
+Os diodos e transistores podem ser usados em conjunto com placas Arduino para criar circuitos eletronicos mais complexos.
+Os tipos de diodos e transistores afetam o comportamento do circuito e devem ser escolhidos de acordo com as necessidades do projeto.
+A placa Arduino pode ser usada para medir a corrente e tensao em um circuito que usa diodos e transistores o que pode ser util para selecionar o componente correto para o circuito.
+Os indutores sao usados para armazenar energia em um campo magnetico.
+Os transformadores sao usados para transferir energia eletrica de um circuito para outro.
+Os indutores e transformadores podem ser usados em conjunto com placas Arduino para criar circuitos eletronicos mais complexos.
+Os valores de indutancia e relacao de transformacao afetam o comportamento do circuito e devem ser escolhidos de acordo com as necessidades do projeto.
+A placa Arduino pode ser usada para medir a indutancia e relacao de transformacao de um componente o que pode ser util para selecionar o valor correto para o circuito.
+As fontes de alimentacao sao usadas para fornecer energia eletrica a um circuito eletronico.
+As fontes de alimentacao podem ser AC ou DC e tem diferentes niveis de tensao e corrente.
+As fontes de alimentacao podem ser reguladas ou nao reguladas dependendo da necessidade do projeto.
+As fontes de alimentacao podem ser lineares ou comutadas e tem diferentes eficiencias e caracteristicas de ruido.
+A placa Arduino pode ser usada para medir a tensao e corrente de uma fonte de alimentacao o que pode ser util para selecionar a fonte correta para o circuito.
+Sobre Arduino Yun - Placa com conectividade Wi-Fi e Ethernet integradas
+Sobre Arduino Esplora - Placa com sensores e botoes integrados para projetos interativos
+O Arduino e utilizado em diversas aplicacoes como controle de motores automacao residencial sistemas de monitoramento entre outros.
+O Arduino utiliza uma linguagem de programacao baseada em C/C++ que e facil de aprender e utilizar.
+O Arduino possui diversos componentes integrados em sua placa como entradas e saidas digitais e analogicas interfaces de comunicacao entre outros.
+Corrente eletrica e o fluxo de eletrons em um circuito. 
+ Tensao eletrica e a diferenca de potencial eletrico entre dois pontos de um circuito. 
+Potencia eletrica e a quantidade de energia eletrica convertida por unidade de tempo.
+O Arduino tambem permite a conexao de diversos componentes externos como sensores displays modulos de comunicacao entre outros.
+O Arduino e uma plataforma muito versatil e pode ser utilizada por pessoas com diferentes niveis de conhecimento em eletronica e programacao.
+A comunidade de usuarios do Arduino e muito ativa e oferece diversos recursos como tutoriais exemplos de projetos e bibliotecas de software.
+Amplificador e um componente eletronico utilizado para aumentar a amplitude de um sinal eletrico sem alterar sua forma de onda. Os amplificadores podem ser classificados de acordo com a faixa de frequencia em que operam como amplificadores de audio amplificadores de RF (radio frequencia) entre outros.
+Oscilador e um componente eletronico que gera um sinal eletrico periodico ou seja que se repete em intervalos de tempo regulares. Os osciladores sao utilizados em diversas aplicacoes como em relogios digitais circuitos de controle de motores transmissores de radio entre outros.
+Microcontrolador e um circuito integrado que contem um processador memoria e perifericos em um unico chip. Os microcontroladores sao utilizados em diversos equipamentos eletronicos como em sistemas de controle de automacao dispositivos de medicao e controle sistemas de seguranca entre outros. Eles permitem a criacao de sistemas embarcados que sao sistemas eletronicos integrados em outros equipamentos ou dispositivos.
+Com o Arduino e possivel criar projetos eletronicos de baixo custo e com grande potencial de inovacao.
