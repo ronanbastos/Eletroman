@@ -26,7 +26,7 @@
                  4.
                  5.
 
-lib usadas:
+libs usadas:
 
       import numpy as np
       import wikipedia
