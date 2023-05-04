@@ -20,13 +20,17 @@
 
  youtubes sobre eletronica:
  
-                 1.https://www.youtube.com/@EvandroVeras
-                 2.https://www.youtube.com/@AmoraVidas
-                 3.https://www.youtube.com/@MentalidadeDeEngenharia
-                 4.https://www.youtube.com/@LeandroFellipe
-                 5.https://www.youtube.com/watch?v=C54Cp819Ebc&ab_channel=ManualdoMundo
-                 6.https://www.youtube.com/@Burgoseletronica05
-
+                 e.https://www.youtube.com/@EvandroVeras
+                 l.https://www.youtube.com/@AmoraVidas
+                 e.https://www.youtube.com/@MentalidadeDeEngenharia
+                 t.https://www.youtube.com/@LeandroFellipe
+                 r.https://www.youtube.com/watch?v=C54Cp819Ebc&ab_channel=ManualdoMundo
+                 o.https://www.youtube.com/@Burgoseletronica05
+                 n.
+                 i.
+                 c.
+                 a.
+                 
 libs usadas [Instalação pre-requisitos]:
 
       pip install numpy 
