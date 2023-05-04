@@ -28,7 +28,7 @@
 
 libs usadas:
 
-      import numpy as np
+      import numpy 
       import wikipedia
       import sqlite3
 
