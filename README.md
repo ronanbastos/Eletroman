@@ -25,3 +25,11 @@
                  3.
                  4.
                  5.
+
+lib usadas:
+
+      import numpy as np
+      import wikipedia
+      import sqlite3
+
+      
