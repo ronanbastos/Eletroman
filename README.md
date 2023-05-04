@@ -26,10 +26,10 @@
                  4.
                  5.
 
-libs usadas:
+libs usadas [Instalação pre-requisitos]:
 
-      import numpy 
-      import wikipedia
-      import sqlite3
+      pip install numpy 
+      pip install wikipedia
+
 
       
