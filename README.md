@@ -15,7 +15,7 @@
  O modulo em python feito para iniciantes em eletronica,
  com suporte wikipedia e banco de dados e interação com chatbot de similaridade.
              
- Ps:[caso achei erro entre em contato comigo ou com tecnico de eletronica] 
+ Ps:[caso achei erro entre em contato comigo ou com Técnico em eletrotécnica] 
                   
   
  Meu canal no youtube:
