@@ -1,18 +1,15 @@
 
-  sSSs  S.        sSSs  sdSS_SSSSSSbs   .S_sSSs      sSSs_sSSs     .S_SsS_S.    .S_SSSs     .S_sSSs    
- d%%SP  SS.      d%%SP  YSSS~S%SSSSSP  .SS~YS%%b    d%%SP~YS%%b   .SS~S*S~SS.  .SS~SSSSS   .SS~YS%%b   
-d%S'    S%S     d%S'         S%S       S%S   `S%b  d%S'     `S%b  S%S `Y' S%S  S%S   SSSS  S%S   `S%b  
-S%S     S%S     S%S          S%S       S%S    S%S  S%S       S%S  S%S     S%S  S%S    S%S  S%S    S%S  
-S&S     S&S     S&S          S&S       S%S    d*S  S&S       S&S  S%S     S%S  S%S SSSS%S  S%S    S&S  
-S&S_Ss  S&S     S&S_Ss       S&S       S&S   .S*S  S&S       S&S  S&S     S&S  S&S  SSS%S  S&S    S&S  
-S&S~SP  S&S     S&S~SP       S&S       S&S_sdSSS   S&S       S&S  S&S     S&S  S&S    S&S  S&S    S&S  
-S&S     S&S     S&S          S&S       S&S~YSY%b   S&S       S&S  S&S     S&S  S&S    S&S  S&S    S&S  
-S*b     S*b     S*b          S*S       S*S   `S%b  S*b       d*S  S*S     S*S  S*S    S&S  S*S    S*S  
-S*S.    S*S.    S*S.         S*S       S*S    S%S  S*S.     .S*S  S*S     S*S  S*S    S*S  S*S    S*S  
- SSSbs   SSSbs   SSSbs       S*S       S*S    S&S   SSSbs_sdSSS   S*S     S*S  S*S    S*S  S*S    S*S  
-  YSSP    YSSP    YSSP       S*S       S*S    SSS    YSSP~YSSY    SSS     S*S  SSS    S*S  S*S    SSS  
-                             SP        SP                                 SP          SP   SP          
-                             Y         Y                                  Y           Y    Y           
+                                                                                                       .         .                                                  
+8 8888888888   8 8888         8 8888888888 8888888 8888888888 8 888888888o.      ,o888888o.           ,8.       ,8.                   .8.          b.             8 
+8 8888         8 8888         8 8888             8 8888       8 8888    `88.  . 8888     `88.        ,888.     ,888.                 .888.         888o.          8 
+8 8888         8 8888         8 8888             8 8888       8 8888     `88 ,8 8888       `8b      .`8888.   .`8888.               :88888.        Y88888o.       8 
+8 8888         8 8888         8 8888             8 8888       8 8888     ,88 88 8888        `8b    ,8.`8888. ,8.`8888.             . `88888.       .`Y888888o.    8 
+8 888888888888 8 8888         8 888888888888     8 8888       8 8888.   ,88' 88 8888         88   ,8'8.`8888,8^8.`8888.           .8. `88888.      8o. `Y888888o. 8 
+8 8888         8 8888         8 8888             8 8888       8 888888888P'  88 8888         88  ,8' `8.`8888' `8.`8888.         .8`8. `88888.     8`Y8o. `Y88888o8 
+8 8888         8 8888         8 8888             8 8888       8 8888`8b      88 8888        ,8P ,8'   `8.`88'   `8.`8888.       .8' `8. `88888.    8   `Y8o. `Y8888 
+8 8888         8 8888         8 8888             8 8888       8 8888 `8b.    `8 8888       ,8P ,8'     `8.`'     `8.`8888.     .8'   `8. `88888.   8      `Y8o. `Y8 
+8 8888         8 8888         8 8888             8 8888       8 8888   `8b.   ` 8888     ,88' ,8'       `8        `8.`8888.   .888888888. `88888.  8         `Y8o.` 
+8 888888888888 8 888888888888 8 888888888888     8 8888       8 8888     `88.    `8888888P'  ,8'         `         `8.`8888. .8'       `8. `88888. 8            `Yo       
                                                                                                        
                                                                                        
  O modulo em python feito para iniciantes em eletronica,
