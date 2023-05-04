@@ -23,8 +23,9 @@
                  1.https://www.youtube.com/@EvandroVeras
                  2.https://www.youtube.com/@AmoraVidas
                  3.https://www.youtube.com/@MentalidadeDeEngenharia
-                 4.
-                 5.
+                 4.https://www.youtube.com/@LeandroFellipe
+                 5.https://www.youtube.com/watch?v=C54Cp819Ebc&ab_channel=ManualdoMundo
+                 6.https://www.youtube.com/@Burgoseletronica05
 
 libs usadas [Instalação pre-requisitos]:
 
